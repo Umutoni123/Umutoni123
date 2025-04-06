@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umutoni123&label=Profile%20views&color=0e75b6&style=flat" alt="umutoni123" /> </p>
 
-                                       - 🔭 I’m currently working on **My portfolio**
+                                       - 🔭 A passionate Software developer
 
                                        - 💬 Ask me about **React,nextjs,nodejs,expressjs,typescript**
 
